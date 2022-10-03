@@ -2,14 +2,14 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Elizaveta1105.github.io/imageSearch",
+  "homepage": "https://elizaveta1105.github.io/fetchImages",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /imageSearch"
+    "build": "parcel build src/*.html --public-url /fetchImages"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Elizaveta1105/imageSearch.git"
+    "url": "git+https://github.com/elizaveta1105/fetchImages.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
